@@ -1,5 +1,5 @@
-                                                                      NAME:PRIYANGHA
-                                                                      REGNO:212223040157
+## NAME:SUJITHRA K
+## REFERENCE NO:212223040212
 
 # EX:6 Series Queues with infinite capacity - Open Jackson Network
 
